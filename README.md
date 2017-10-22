@@ -1,2 +1,2 @@
 # SpreadBread
-Mobile application that connects eateries/restaurants to homeless shelters through volunteerism
+Mobile app that connects eateries/restaurants to homeless shelters through volunteerism
